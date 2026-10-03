@@ -11,7 +11,7 @@ will see three warnings on the way in. All three are expected.
 
 ## Download
 
-**[Download GAINS-Setup-v0.1.exe](https://github.com/ss-savari/GAINS-releases/releases/download/v0.1/GAINS-Setup-v0.1.exe)** (version 0.1 beta, about 85 MB)
+**[Download GAINS-Setup-v0.2.exe](https://github.com/ss-savari/GAINS-releases/releases/download/v0.2/GAINS-Setup-v0.2.exe)** (version 0.2 beta, about 85 MB)
 
 If that link doesn't work, open the
 [latest release](https://github.com/ss-savari/GAINS-releases/releases/latest)
