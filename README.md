@@ -6,12 +6,12 @@ read your PDFs and worksheets, write an essay into a Word document, and, if you
 let it, check your email and calendar. What it remembers about you stays on
 your own computer.
 
-It is a small personal project that is still being tested. That is why you
+It is a small personal project, in beta: still being tested. That is why you
 will see three warnings on the way in. All three are expected.
 
 ## Download
 
-**[Download GAINS-Setup-v1.0.exe](https://github.com/ss-savari/GAINS-releases/releases/download/v1.0/GAINS-Setup-v1.0.exe)** (about 85 MB)
+**[Download GAINS-Setup-v0.1.exe](https://github.com/ss-savari/GAINS-releases/releases/download/v0.1/GAINS-Setup-v0.1.exe)** (version 0.1 beta, about 85 MB)
 
 If that link doesn't work, open the
 [latest release](https://github.com/ss-savari/GAINS-releases/releases/latest)
@@ -62,6 +62,20 @@ arrow). Say **"Hey Jarvis"**, wait for the screen edges to glow, then ask:
 The free keys have daily limits. If GAINS says it has hit its limit, it also
 says when it will be back.
 
+## Updates
+
+When a new version is out, GAINS tells you: a notification, a line at the top
+of the tray menu, and a banner on the dashboard. Click any of them and GAINS
+downloads the new version, checks that it is exactly the published file,
+installs it and starts again by itself. Your keys, settings and memory stay as
+they are. Nothing is ever updated without your click.
+
+The version you have is at the top of the tray menu (for example "GAINS v0.2
+beta"), and in the dashboard and Settings.
+
+Versions 0.1 and older can't update themselves: download the newest one above
+once and install it over the old one. Your settings and memory are kept.
+
 ## Removing it
 
 Windows **Settings**, then **Apps**, then **GAINS**, then **Uninstall**. It asks
@@ -69,11 +83,16 @@ whether to delete your saved memory and settings as well.
 
 ## Something not working?
 
-Tell me. Either message me the same way I sent you this link, or
-[open an issue here](https://github.com/ss-savari/GAINS-releases/issues/new)
-(you need a free GitHub account for that).
+Right-click the **G**, then **Report a problem...** (or click **Report a
+problem** on the dashboard, or say "Hey Jarvis, report a bug"). GAINS puts
+together a short report: its version, your Windows version, which features are
+on, and its recent log with your keys, email addresses, what you said to it,
+file names and what it remembers about you taken out. You see every word of it
+first and can delete anything else. **Send by email** opens your own email
+with the report in it, and you send it.
 
-It helps to know what you said, what GAINS did, and what you expected. Please
-don't post GAINS's log file publicly, because it contains what you said to it.
-If I need it I'll ask you to send it to me directly: right-click the **G**,
-then **Open Logs**.
+If GAINS stops unexpectedly it starts itself again (up to three times in ten
+minutes), and the next report includes what happened.
+
+You can also message me the same way I sent you this link. Please don't post
+GAINS's log file publicly, because it contains what you said to it.
